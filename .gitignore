@@ -1,0 +1,6 @@
+*.log
+*.*swp
+.idea
+*.lock
+*.pyc
+
